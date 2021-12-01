@@ -1,1 +1,2 @@
 hello again 02
+nano 2.txt
